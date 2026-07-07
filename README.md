@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=98C379&center=true&vCenter=true&width=500&lines=PARSING+THE+ARCHITECTURE...;SHIFTING+FROM+THEORY+TO+PRODUCT.;BUILDING+THE+END+RESULT." alt="Typing SVG" />
 </p>
 ---
+
 ### 👁️ THE PROFILE : FROM INTELLECT TO EXECUTION
 For a long time, the obsession was purely architectural—dissecting the telemetry of Large Language Models, tracking crypto protocols, and breaking down Linux distros just to see how the kernel breathes. I mastered the working model. 
 
